@@ -10,6 +10,10 @@ address {
   font-style: normal;
 }
 
+img {
+  display: block;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -287,8 +291,8 @@ h5 {
 .user {
   background-color: #ffffff;
 }
-.user-text {
-}
+/* .user-text {
+} */
 
 .section-title {
   font-weight: 700;
@@ -304,9 +308,7 @@ h5 {
   padding-top: 120px;
   padding-bottom: 120px;
 }
-.portfolio-container {
-  /* padding-bottom: 120px; */
-}
+
 .section-title-portfolio {
   text-transform: capitalize;
   /* padding-top: 120px; */
