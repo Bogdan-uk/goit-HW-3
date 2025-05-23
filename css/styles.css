@@ -239,17 +239,18 @@ h5 {
 
 .section-team {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
-.team-container {
+/* .team-container {
   padding-bottom: 120px;
   padding-top: 120px;
-}
+} */
 .user-text-block {
   padding: 32px 0;
 }
 .users-subtitle {
   text-transform: capitalize;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 .user-front {
   font-weight: 500;
